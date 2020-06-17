@@ -1,0 +1,14 @@
+{
+  "animals": [
+    {
+      "title": "Cats",
+      "text": "In terms of development, the first year of a cat's life is equal to the first 15 years of a human life. Cats can rotate their ears 180 degrees. The hearing of the average cat is at least five times keener than that of a human adult.",
+      "imageSource": "https://cdn.pixabay.com/photo/2016/03/09/15/27/cat-1246659_960_720.jpg"
+    },
+    {
+      "title": "Elephants",
+      "text": "Elephants are known for their large ears, tusks made of ivory and their trunks – which are actually a fusion of their nose and upper lip. Elephants are the world's largest land animal! Male African elephants can reach 3m tall and weigh between 4,000 -7,500kg.",
+      "imageSource": "https://cdn.pixabay.com/photo/2012/03/04/00/08/animal-21772_960_720.jpg"
+    }
+  ]
+}
